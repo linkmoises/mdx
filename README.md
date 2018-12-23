@@ -1,15 +1,13 @@
 # Proyecto MDX
 
-mdx-html5 es una plantilla basada en Canvas para crear el concepto para el sitio web de DocenciaMD.
-
-Guía rápida para uso de git
+mdx-html5 es una plantilla basada en Canvas para crear el concepto para el sitio web de DocenciaMD. A continuación dejo una guía rápida para uso de git para los que recién empiezan.
 
 ### Inicialización del repositorio
 ***
 Esto solo se realiza la primera vez que se va a crear un repositorio.
 ```
-mkdir medicore
-cd medicore
+mkdir repositorio
+cd repositorio
 git init
 ```
 
@@ -39,7 +37,7 @@ cd existing_git_repo
 ```
 Recogemos los cambios que se han hecho en nuestra ausencia o que se han realizado vía web
 ```
-git pull git@github.com:usuario/repositorio.git
+git pull https://github.com/usuario/repositorio.git
 ```
 Editamos y añadimos nuestros cambios, un comentario y subimos cuando estemos listos.
 ```
