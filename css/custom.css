@@ -28,3 +28,7 @@
 .card-curso {
 	height: 550px;
 }
+
+.noshowdiv {
+	display: none;
+}
