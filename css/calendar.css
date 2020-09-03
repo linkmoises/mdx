@@ -66,6 +66,7 @@
 	padding: 4px;
 	overflow: hidden;
 	position: relative;
+	vertical-align: middle;
 }
 
 .fc-calendar .fc-head > div {
